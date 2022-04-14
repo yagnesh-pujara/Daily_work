@@ -1,0 +1,7 @@
+Today I have learned Dart lang.
+
+I have Learned about Operators,Variables, Comments, Printing Variables, Built In Data types,
+how to check data-type, Arithmetic, Increament - Decreament , Equality and Relational , Logical 
+Type test, Assignment, Conditional Expression , and etc....
+
+I am at 1:58min in Dart video .
